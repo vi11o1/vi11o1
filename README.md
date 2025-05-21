@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vi11o1
-- 👀 I’m interested in consultancy and designing
-- 🌱 I’m currently learning production engineering and consulting
-- 💞️ I’m looking to collaborate on learning about coding and how to code
+- 👀 I’m interested in figuring out what i am interested in
+- 🌱 I’m currently learning production engineering and a lot of other stuff in hopes that it will get me hooked on
+- 💞️ I’m looking to collaborate on learning about graphic designing, ui/ux designing right now
 - 📫 How to reach me email : vigrahaasenthilkumar@gmail.com
 
 <!---
